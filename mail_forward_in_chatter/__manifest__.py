@@ -4,7 +4,8 @@
     "version": "18.0.1",
     "summary": "Forward messages from the chatter to any user.",
     "author": "bharathikannan17656@gmail.com",
-
+    "price":"10.0",
+    "currency":"USD",
     "depends": ["mail", "contacts"],
     
     "assets": {
