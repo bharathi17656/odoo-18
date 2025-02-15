@@ -1,18 +1,15 @@
-# Copyright 2024 Tecnativa - Carlos Lopez
-# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
+
 {
-    "name": "Mail Forward Message",
-    "version": "15.0.1",
-    "summary": "Forward messages from the chatter of any document to other users.",
-    "author": "Tecnativa, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/social",
+    "name": "Mail Forward Message to Anyone ",
+    "version": "18.0.1",
+    "summary": "Forward messages from the chatter to any user.",
+    "author": "bharathikannan17656@gmail.com",
+
     "depends": ["mail", "contacts"],
-    "data": [
-        # "wizards/mail_compose_message_view.xml",
-    ],
+    
     "assets": {
         "web.assets_backend": [
-            "mail_forward/static/src/components/forward_message.js",
+            "mail_forward_in_chatter/static/src/components/forward_message.js",
             
         ],
         
