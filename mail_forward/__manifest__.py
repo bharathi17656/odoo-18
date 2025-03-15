@@ -12,6 +12,8 @@
     "author": "Bharathikannan.M",
     'maintainer': 'bharathikannan17656@gmail.com',
     "depends": ["mail", "contacts"],
+     "price":"10.0",
+    "currency":"USD",
     'category': 'Marketing/Email Marketing',
     "data": [
       
