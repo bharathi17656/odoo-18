@@ -12,13 +12,15 @@
     "author": "Bharathikannan.M",
     'maintainer': 'bharathikannan17656@gmail.com',
     "depends": ["mail", "contacts"],
+    "price":"10.0",
+    "currency":"USD",
     'category': 'Marketing/Email Marketing',
     "data": [
       
     ],
     "assets": {
         "web.assets_backend": [
-            "mail_forward/static/src/components/forward_message.js",
+            "mail_forward_instantly/static/src/components/forward_message.js",
             
         ],
         
